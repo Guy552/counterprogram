@@ -1,0 +1,18 @@
+.blabel{
+    display: block;
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 10em;
+}
+
+.mbtn{
+    background-color: rgb(134, 134, 216);
+    color: white;
+    font-size: 1.5em;
+    font-family: Arial, Helvetica, sans-serif;
+    border-radius: 3px;
+}
+
+#mdiv{
+    text-align: center;
+}
